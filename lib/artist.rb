@@ -26,5 +26,4 @@ class Artist
     @@song_count
   end
   
-  def 
 end
